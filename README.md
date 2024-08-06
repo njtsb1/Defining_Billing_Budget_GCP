@@ -10,7 +10,7 @@ Learning how to create alerts and a real budget definition to control their use 
 
 - Editing budget:
 
-![Editing budget](/Images/project_GCP.pngg)
+![Editing budget](/Images/project_GCP.png)
 
 - Table created in BigQuery:
 
