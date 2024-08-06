@@ -11,6 +11,6 @@ Some points that should be taken into consideration:
 
 - Monthly CDN costs with alerts configured at 50%, 90%, 100% to receive the alert when reaching the maximum limit.
 
-[Budget_Alerts_Billing_GCP](/GCP/Budget_Alerts_Billing_GCP.png)
+![Budget_Alerts_Billing_GCP](/GCP/Budget_Alerts_Billing_GCP.png)
 
 [LICENSE](/LICENSE)
