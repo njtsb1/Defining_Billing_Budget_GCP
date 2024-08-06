@@ -6,18 +6,18 @@ Project developed at the Bootcamp Cloud DevOps Experience - Banco Carrefour with
 Learning how to create alerts and a real budget definition to control their use within the GCP platform and understand in practice how Billing settings work.
 
 - Initial Settings:
-![Initial Settings](/Billing_Budget.png)
+![Initial Settings](/Images/Billing_Budget.png)
 
 - Editing budget:
 
-![Editing budget](/project_GCP.png)
+![Editing budget](/Images/project_GCP.pngg)
 
 - Table created in BigQuery:
 
-![BigQuery](/table_bigquery.png)
+![BigQuery](/Images/table_bigquery.png)
 
 - Dashboard example with Bigquery data source:
 
-![Dashboard](/dashboard_data.png)
+![Dashboard](/Images/dashboard_data.png)
 
 [LICENSE](/LICENSE)
