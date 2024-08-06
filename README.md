@@ -6,7 +6,7 @@ Project developed at the Bootcamp Cloud DevOps Experience - Banco Carrefour with
 Learning how to create alerts and a real budget definition to control their use within the GCP platform and understand in practice how Billing settings work.
 
 - Initial Settings:
-![Initial Settings](/Billing%20Budget.png)
+![Initial Settings](/Billing_Budget.png)
 
 - Editing budget:
 
