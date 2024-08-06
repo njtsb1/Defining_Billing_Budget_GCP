@@ -21,4 +21,3 @@ Learning how to create alerts and a real budget definition to control their use 
 ![Dashboard](/dashboard_data.png)
 
 [LICENSE](/LICENSE)
-# Defining_Billing_Budget_GCP
